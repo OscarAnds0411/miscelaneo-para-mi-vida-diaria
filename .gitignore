@@ -265,8 +265,8 @@ Thumbs.db
 ~$*.xlsx
 
 # Datos generados o pesados (ajusta rutas a tu proyecto)
-data/*.csv
-data/*.xlsx
+*.csv
+*.xlsx
 
 # Archivos temporales generales
 *.tmp
